@@ -27,7 +27,7 @@ To run the Streamlit dashboard simulation:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/EcoOptimize-AI.git
+git clone https://github.com/Pushyami45/EcoOptimize-AI.git
 
 # 2. Navigate to directory
 cd EcoOptimize-AI
